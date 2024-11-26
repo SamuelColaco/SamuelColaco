@@ -1,4 +1,4 @@
-# Olá, sou o Samuel Colaco 👋
+# Olá, sou o Samuel Colaço 👋
 
 Bem-vindo ao meu perfil do GitHub! Aqui você pode ver meus projetos e as tecnologias que mais utilizo.
 
@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você pode ver meus projetos e as tecnol
 
 ## 📊 Estatísticas
 
-![SamuelColaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelColaco&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![SamuelColaco GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelColaco&show_icons=true&theme=radical)
 
 ## 🚀 Contribuições
 
