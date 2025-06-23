@@ -29,18 +29,12 @@ Atualmente estudo no curso de **Ciência de Dados para Negócios (UFPB)** e dese
 
 ---
 
-## 🐍 Contribuições Recentes
-
-![snake gif](https://github.com/SamuelColaco/SamuelColaco/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🚀 Sobre Mim
 
-- 🔭 Buscando oportunidades como **Dev Back-End Júnior**
+- 🔭 Buscando oportunidades como **Dev Back-End Júnior** e **Desenvolvedor Estagiário**
 - 🧠 Estudando **Clean Architecture**, **SOLID**, **TDD**
 - 💬 Gosto de compartilhar conhecimento e contribuir com boas práticas
-- 📫 Me encontre: [LinkedIn](https://www.linkedin.com/in/samuelcola%C3%A7o/) · [Email](mailto:samuelcolaco97@gmail.com)
+- 📫 Me encontre: [LinkedIn](www.linkedin.com/in/samuel-colaco-76b283302) · [Email](mailto:colaco.samuel8@gmail.com)
 
 ---
 
