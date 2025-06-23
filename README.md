@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você pode ver meus projetos e as tecnol
 
 ## ⚙️ Status de Projetos
 
-![Commits in 2025](https://img.shields.io/github/commit-activity/y/SamuelColaco/SamuelColaco?color=00ff99&logo=github&style=flat)
+![snake gif](https://github.com/SamuelColaco/SamuelColaco/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 Estatísticas
 
