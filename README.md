@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você pode ver meus projetos e as tecnol
 
 ## ⚙️ Status de Projetos
 
-![Samuel Colaço's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelColaco&show_icons=true&theme=github_dark)
+![Commits in 2025](https://img.shields.io/github/commit-activity/y/SamuelColaco/SamuelColaco?color=00ff99&logo=github&style=flat)
 
 ## 📊 Estatísticas
 
