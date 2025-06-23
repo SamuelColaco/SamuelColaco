@@ -23,3 +23,4 @@ Como posso ajudar:
 - Desenvolvimento de projetos em **JavaScript**, **TypeScript**, **Node.js**
 - Melhorias de performance em projetos
 - Criação de API Restful
+- Utilização das melhores práticas e príncipios como **Solid** e **Clean Architeture**
