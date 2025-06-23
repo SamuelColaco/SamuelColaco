@@ -2,7 +2,7 @@
 
 Seja bem-vindo(a) ao meu GitHub!  
 Aqui você encontra os projetos que desenvolvo com foco em performance, arquitetura limpa e boas práticas de código.  
-Atualmente estudando **Ciência de Dados para Negócios (UFPB)** e desenvolvendo com **JavaScript / TypeScript / Node.js**.
+Atualmente estudo no curso de **Ciência de Dados para Negócios (UFPB)** e desenvolvo aplicações com **JavaScript / TypeScript / Node.js**.
 
 ---
 
