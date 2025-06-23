@@ -34,7 +34,7 @@ Atualmente estudo no curso de **Ciência de Dados para Negócios (UFPB)** e dese
 - 🔭 Buscando oportunidades como **Dev Back-End Júnior** e **Desenvolvedor Estagiário**
 - 🧠 Estudando **Clean Architecture**, **SOLID**, **TDD**
 - 💬 Gosto de compartilhar conhecimento e contribuir com boas práticas
-- 📫 Me encontre: [LinkedIn](www.linkedin.com/in/samuel-colaco-76b283302) · [Email](mailto:colaco.samuel8@gmail.com)
+- 📫 Me encontre: [LinkedIn](https://www.linkedin.com/in/samuel-colaco-76b283302) · [Email](mailto:colaco.samuel8@gmail.com)
 
 ---
 
