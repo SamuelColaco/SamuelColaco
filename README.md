@@ -45,10 +45,20 @@ Apaixonado por arquitetura de software escalável, engenharia de dados e transfo
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelColaco&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelColaco&layout=compact&theme=radical" height="165" />
-</p>
+<div align="center">
+  <a href="https://github.com/SamuelColaco">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelColaco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelColaco&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/SamuelColaco">
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelColaco&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 ---
 
