@@ -46,16 +46,9 @@ Apaixonado por arquitetura de software escalável, engenharia de dados e transfo
 ## 🏆 Conquistas & 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/SamuelColaco">
-    <img src="https://github-profile-trophy.vercel.app/?username=SamuelColaco&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Troféus do GitHub" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelColaco&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelColaco&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=SamuelColaco&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SamuelColaco&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
 </div>
 
 <br>
