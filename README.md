@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Samuel+Colaço!+👋;Full-Stack+Lead+Developer;AI+%2F+NLP+Researcher;Game+Dev+Enthusiast;Data+Science+Undergrad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=36BCF7¢er=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Samuel+Colaço!+👋;Full-Stack+Developer;AI+%2F+NLP+Researcher;Game+Dev+Enthusiast;Data+Science+Undergrad" alt="Typing SVG" />
   
   <p align="center">
     <b>Building scalable architectures, data pipelines, and impactful digital products.</b>
@@ -12,12 +12,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SamuelColaco&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
 <br/>
 
 <details open>
@@ -26,9 +20,9 @@
   <ul>
     <li>🎓 <b>Undergraduate Student</b> in Data Science for Business at the Federal University of Paraíba (UFPB) — Class of 2027.</li>
     <li>💼 <b>Full-Stack Developer</b> at <b>Livvie</b>: Building microservices, access control systems, and robust integrations.</li>
-    <li>🔬 <b>Tech Lead & Researcher</b> at <b>LEMA-UFPB</b>: Architecting backends, APIs, and data pipelines for public education initiatives (e.g., <i>ODIN platform</i>).</li>
+    <li>🔬 <b>Full-Stack Developer & Researcher</b> at <b>LEMA-UFPB</b>: Architecting backends, APIs, and data pipelines for public education initiatives (e.g., <i>ODIN platform</i>).</li>
     <li>🎮 <b>Game Dev Enthusiast</b>: Building games with C# in Unity and exploring C++ in Unreal Engine 5.</li>
-    <li>🎯 <b>Goal</b>: Mastering Software Engineering and AI to drive Tech Leadership/Product Management (PO/PM) and scientific research.</li>
+    <li>🎯 <b>Goal</b>: Mastering Software Engineering and AI to drive Product Management (PO/PM) and scientific research.</li>
   </ul>
 </details>
 
@@ -65,8 +59,12 @@
 <h3 align="center">📊 GitHub Metrics & Activity</h3>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=SamuelColaco&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SamuelColaco&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SamuelColaco&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelColaco&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelColaco&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
