@@ -1,91 +1,68 @@
-<h1 align="center">
-  Hi there, I'm Samuel Colaço Lira Carvalho 👋
-</h1>
-
-<h3 align="center">
-  Full-Stack Developer & AI/NLP Researcher | Data Science Undergrad @ UFPB
-</h3>
-
-<p align="center">
-  Passionate about scalable software architecture, data engineering, and transforming complex problems into impactful digital products.
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Samuel+Colaço!+👋;Full-Stack+Lead+Developer;AI+%2F+NLP+Researcher;Game+Dev+Enthusiast;Data+Science+Undergrad" alt="Typing SVG" />
+  
+  <p align="center">
+    <b>Building scalable architectures, data pipelines, and impactful digital products.</b>
+  </p>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=SamuelColaco&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </p>
+</div>
 
 ---
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SamuelColaco&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+
 <details open>
-  <summary><b>👨‍💻 About Me</b></summary>
+  <summary><b>👨‍💻 The Architect Behind the Code</b></summary>
   <br/>
   <ul>
     <li>🎓 <b>Undergraduate Student</b> in Data Science for Business at the Federal University of Paraíba (UFPB) — Class of 2027.</li>
     <li>💼 <b>Full-Stack Developer</b> at <b>Livvie</b>: Building microservices, access control systems, and robust integrations.</li>
-    <li>🔬 <b>Tech Lead & Researcher</b> at <b>LEMA-UFPB</b>: Architecting backends, APIs, and data pipelines for public education initiatives (like the <i>ODIN platform</i> and <i>NLP Mimir</i>).</li>
-    <li>🎮 <b>Game Dev Enthusiast</b>: Building games with C# in Unity and currently learning C++ in Unreal Engine.</li>
-    <li>🎯 <b>Career Goal</b>: Evolving in software engineering and AI, heading towards Tech Leadership/Product Management (PO/PM) and ML scientific research.</li>
+    <li>🔬 <b>Tech Lead & Researcher</b> at <b>LEMA-UFPB</b>: Architecting backends, APIs, and data pipelines for public education initiatives (e.g., <i>ODIN platform</i>).</li>
+    <li>🎮 <b>Game Dev Enthusiast</b>: Building games with C# in Unity and exploring C++ in Unreal Engine 5.</li>
+    <li>🎯 <b>Goal</b>: Mastering Software Engineering and AI to drive Tech Leadership/Product Management (PO/PM) and scientific research.</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>🧠 Domain & Architecture</b></summary>
+  <summary><b>🧠 Architecture & Paradigms</b></summary>
   <br/>
   <ul>
-    <li><b>Software Engineering:</b> Clean Architecture, Domain-Driven Design (DDD), SOLID principles, Spec-Driven Development, and Microservices.</li>
-    <li><b>AI & NLP:</b> Natural Language Processing, Text Classification, Transformers (BERT), and basic MLOps.</li>
-    <li><b>Product & Management:</b> Technical leadership, requirements mapping, agile methodologies, and business vision.</li>
+    <li><b>Engineering:</b> Clean Architecture, Domain-Driven Design (DDD), SOLID, TDD, Spec-Driven Development, Microservices.</li>
+    <li><b>AI & Data:</b> NLP, Text Classification, Transformers (BERT), spaCy, basic MLOps.</li>
   </ul>
 </details>
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Arsenal</h3>
 
-<details open>
-  <summary><b>Backend & Infrastructure</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary><b>Frontend & Mobile</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary><b>AI & Data Science</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/-spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  </p>
-</details>
-
-<details>
-  <summary><b>Game Development</b></summary>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-    <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  </p>
-</details>
+<div align="center">
+  <p><strong>Backend & Cloud</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,py,fastapi,postgres,mongodb,docker,aws,jest&theme=dark" alt="Backend Stack" />
+  
+  <br/><br/>
+  
+  <p><strong>Frontend & Mobile</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,dart&theme=dark" alt="Frontend Stack" />
+  
+  <br/><br/>
+  
+  <p><strong>AI & Game Development</strong></p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,unity,cs,unreal,cpp&theme=dark" alt="AI and Game Dev Stack" />
+</div>
 
 ---
 
-### 📊 GitHub Stats & Contributions
+<h3 align="center">📊 GitHub Metrics & Activity</h3>
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=SamuelColaco&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -103,13 +80,12 @@
 
 ---
 
-### 📬 Let's Connect!
-
-<p align="center">
+<div align="center">
+  <h3>📬 Let's Collaborate!</h3>
   <a href="https://www.linkedin.com/in/samuel-colaco-76b283302" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:colaco.samuel8@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
