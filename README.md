@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Lead Developer & AI/NLP Researcher | Data Science Undergrad @ UFPB
+  Full-Stack Developer & AI/NLP Researcher | Data Science Undergrad @ UFPB
 </h3>
 
 <p align="center">
