@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Samuel+Colaço!+👋;Full-Stack+Developer;AI+%2F+NLP+Researcher;Game+Dev+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=2000&pause=1000&color=00F0FF¢er=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Samuel+Colaço!+👋;Full-Stack+Developer;AI+%2F+NLP+Researcher;Game+Dev+Enthusiast" alt="Typing SVG" />
   <p><b>Building scalable architectures, data pipelines, and impactful digital products.</b></p>
 </div>
 
@@ -21,8 +21,8 @@
 ## 👥 Population (Profile Signals)
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelColaco&show_icons=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&icon_color=00F0FF&border_color=00F0FF&border_radius=10&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelColaco&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&border_color=00F0FF&border_radius=10&hide_border=false&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelColaco&show_icons=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&icon_color=00F0FF&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelColaco&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 <br/>
@@ -85,7 +85,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samuel-colaco-76b283302" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&border_color=00F0FF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
   </a>
   <a href="mailto:colaco.samuel8@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
