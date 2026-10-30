@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=2000&pause=1000&color=00F0FF¢er=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Samuel+Colaço!+👋;Full-Stack+Developer;AI+%2F+NLP+Researcher;Game+Dev+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Samuel+Colaço!+👋;Full-Stack+Developer;AI+%2F+NLP+Researcher;Game+Dev+Enthusiast" alt="Typing SVG" />
   <p><b>Building scalable architectures, data pipelines, and impactful digital products.</b></p>
 </div>
 
@@ -8,7 +8,7 @@
 ## 🏙️ The city I built this year
 
 <div align="center">
-  <!-- Esta imagem será gerada automaticamente pela GitHub Action (Passo 2) -->
+  <!-- Imagem gerada automaticamente pela GitHub Action do 3D Contrib -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
@@ -21,9 +21,19 @@
 ## 👥 Population (Profile Signals)
 
 <div align="center">
-  <!-- Cards de Status com tema Dark e Neon Cyan -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelColaco&show_icons=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&icon_color=00F0FF&border_color=00F0FF&border_radius=10&hide_border=false&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelColaco&layout=compact&bg_color=0D1117&title_color=00F0FF&text_color=8B949E&border_color=00F0FF&border_radius=10&hide_border=false&langs_count=6" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Snake Game Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelColaco/SamuelColaco/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelColaco/SamuelColaco/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamuelColaco/SamuelColaco/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
@@ -55,7 +65,18 @@
 ## ⚡ Tech Infrastructure
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,py,fastapi,postgres,mongodb,docker,aws,jest,react,nextjs,tailwind,flutter,dart,pytorch,unity,cs,unreal,cpp&theme=dark&perline=10" alt="Tech Stack" />
+  <p><strong>Backend & Cloud</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,py,fastapi,postgres,mongodb,docker,aws,jest&theme=dark" alt="Backend Stack" />
+  
+  <br/><br/>
+  
+  <p><strong>Frontend & Mobile</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,dart&theme=dark" alt="Frontend Stack" />
+  
+  <br/><br/>
+  
+  <p><strong>AI & Game Development</strong></p>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,unity,cs,unreal,cpp&theme=dark" alt="AI and Game Dev Stack" />
 </div>
 
 <br/>
