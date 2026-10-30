@@ -20,13 +20,14 @@
 ## 👥 Population (Profile Signals)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelColaco&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelColaco&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-00F0FF?style=for-the-badge&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20DDD-0D1117?style=for-the-badge&logoColor=white" alt="Architecture" />
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- Snake Game Contribution Graph -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelColaco/SamuelColaco/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelColaco/SamuelColaco/output/github-contribution-grid-snake.svg">
@@ -83,13 +84,9 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samuel-colaco-76b283302" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:colaco.samuel8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=SamuelColaco&label=VISITORS&color=00F0FF&style=flat-square" alt="Profile Views" />
 </div>
